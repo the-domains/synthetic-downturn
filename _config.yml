@@ -1,0 +1,14 @@
+layout_spectrum: 0.8331048397812992
+typography_spectrum: 0.8297111210413277
+color:
+  brandStrength: 0.6598948726896197
+  lightness: 0.8933637514710426
+  saturation: 0.3960511276964098
+  rhythmicContrast: 0.8806997849605978
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: synthetic downturn
